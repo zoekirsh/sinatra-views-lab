@@ -23,7 +23,7 @@ default, you should be able to hit the following local urls:
 http://localhost:9393/hello, http://localhost:9393/goodbye, and
 http://localhost:9393/date.
 
-You can run `learn` to get the tests passing and see errors.
+You can run `learn test` to get the tests passing and see errors.
 
 1. Create a template called `hello.erb` in `views` that contains an `h1` tag
    with the content `Hello World`. This should get rendered via a GET `/hello`
